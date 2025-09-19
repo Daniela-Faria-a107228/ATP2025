@@ -15,5 +15,5 @@ O TPC consistiu:
 
 ## Resultados
 
-* Imagem com o programa do maze 10: ![maze10] (maze10.png)
-* Imagem no turtle: ![comboio.turtle] (comboio.turtle.png)
+* Imagem com o programa do maze 10: ![maze10](maze10.png)
+* Imagem no turtle: ![comboio.turtle](comboio.turtle.png)
