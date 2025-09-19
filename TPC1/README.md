@@ -14,3 +14,6 @@ O TPC consistiu:
 * Desenhar no turtle a figura que o professor fez no quadro
 
 ## Resultados
+
+* Imagem com o programa do maze 10: ![maze10] (maze10.png)
+* Imagem no turtle: ![comboio.turtle] (comboio.turtle.png)
