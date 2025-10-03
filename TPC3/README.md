@@ -1,4 +1,4 @@
-# Relatório da TP3
+# TP3: Aplicação para manipulação de listas de inteiros
 
 ## Autor
 - Daniela Faria
